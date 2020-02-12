@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1066425636202",
+    "firebase_url": "https://gentle-avatar-239107.firebaseio.com",
+    "project_id": "gentle-avatar-239107",
+    "storage_bucket": "gentle-avatar-239107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066425636202:android:a1cacbf438ff5194530113",
+        "android_client_info": {
+          "package_name": "com.example.calender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066425636202-f8jpfro0obtae7ppsp2nt2tl7304o2ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMIGMjifoaCSxqL0tc6W1egt9px8g_ezc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066425636202-f8jpfro0obtae7ppsp2nt2tl7304o2ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066425636202:android:2c0246faead394e6530113",
+        "android_client_info": {
+          "package_name": "com.example.lihith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066425636202-f8jpfro0obtae7ppsp2nt2tl7304o2ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMIGMjifoaCSxqL0tc6W1egt9px8g_ezc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066425636202-f8jpfro0obtae7ppsp2nt2tl7304o2ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066425636202:android:84f949cdd20bbf0d",
+        "android_client_info": {
+          "package_name": "jayakrishna.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066425636202-f8jpfro0obtae7ppsp2nt2tl7304o2ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMIGMjifoaCSxqL0tc6W1egt9px8g_ezc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066425636202-f8jpfro0obtae7ppsp2nt2tl7304o2ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
